@@ -1,0 +1,259 @@
+scc,level1,level2,level3,level4,ACES_fuel_category,SEDS_code,CO_emission_factor,CO_ef_units,CO2_emission_factor,CO2_ef_units
+10100101,External Combustion Boilers,Electric Generation,"Anthracite Coal, Pulverized",Boiler,coal,CLEIP,0.6,Lb / Ton,5674.26859296,Lb / Ton
+10100102,External Combustion Boilers,Electric Generation,Anthracite Coal,"Boiler, Traveling Grate (Overfeed) Stoker",coal,CLEIP,0.6,Lb / Ton,5674.26859296,Lb / Ton
+10100201,External Combustion Boilers,Electric Generation,"Bituminous Coal, Pulverized","Boiler, Wet Bottom",coal,CLEIP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10100202,External Combustion Boilers,Electric Generation,"Bituminous Coal, Pulverized","Boiler, Dry Bottom",coal,CLEIP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10100203,External Combustion Boilers,Electric Generation,Bituminous Coal,"Boiler, Cyclone Furnace",coal,CLEIP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10100204,External Combustion Boilers,Electric Generation,Bituminous Coal,"Boiler, Spreader Stoker",coal,CLEIP,5,Lb / Ton,4934.21293288,Lb / Ton
+10100205,External Combustion Boilers,Electric Generation,Bituminous Coal,"Boiler, Traveling Grate (Overfeed) Stoker",coal,CLEIP,6,Lb / Ton,4934.21293288,Lb / Ton
+10100212,External Combustion Boilers,Electric Generation,"Bituminous Coal, Pulverized","Boiler, Dry Bottom Tangential-fired",coal,CLEIP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10100215,External Combustion Boilers,Electric Generation,Bituminous Coal,Cell Burner,coal,CLEIP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10100217,External Combustion Boilers,Electric Generation,Bituminous Coal,"Boiler, Atmospheric Fluidized Bed Combustion: Bubbling Bed",coal,CLEIP,18,Lb / Ton,4934.21293288,Lb / Ton
+10100218,External Combustion Boilers,Electric Generation,Bituminous Coal,"Boiler, Atmospheric Fluidized Bed Combustion: Circulating Bed",coal,CLEIP,18,Lb / Ton,4934.21293288,Lb / Ton
+10100221,External Combustion Boilers,Electric Generation,"Subbituminous Coal, Pulverized","Boiler, Wet Bottom",coal,CLEIP,0.5,Lb / Ton,3732.90006254,Lb / Ton
+10100222,External Combustion Boilers,Electric Generation,"Subbituminous Coal, Pulverized","Boiler, Dry Bottom",coal,CLEIP,0.5,Lb / Ton,3732.90006254,Lb / Ton
+10100223,External Combustion Boilers,Electric Generation,Subbituminous Coal,Cyclone Furnace,coal,CLEIP,0.5,Lb / Ton,3732.90006254,Lb / Ton
+10100224,External Combustion Boilers,Electric Generation,Subbituminous Coal,"Boiler, Spreader Stoker",coal,CLEIP,5,Lb / Ton,3732.90006254,Lb / Ton
+10100225,External Combustion Boilers,Electric Generation,Subbituminous Coal,"Boiler, Traveling Grate (Overfeed) Stoker",coal,CLEIP,6,Lb / Ton,3732.90006254,Lb / Ton
+10100226,External Combustion Boilers,Electric Generation,"Subbituminous Coal, Pulverized","Boiler, Dry Bottom Tangential-fired",coal,CLEIP,0.5,Lb / Ton,3732.90006254,Lb / Ton
+10100237,External Combustion Boilers,Electric Generation,Subbituminous Coal,"Boiler, Atmospheric Fluidized Bed Combustion: Bubbling Bed",coal,CLEIP,18,Lb / Ton,3732.90006254,Lb / Ton
+10100301,External Combustion Boilers,Electric Generation,Pulverized Lignite,"Boiler, Dry Bottom Wall-fired",coal,CLEIP,0.25,Lb / Ton,2747.87584654,Lb / Ton
+10100302,External Combustion Boilers,Electric Generation,Pulverized Lignite,"Boiler, Dry Bottom Tangential-fired",coal,CLEIP,0.6,Lb / Ton,2747.87584654,Lb / Ton
+10100303,External Combustion Boilers,Electric Generation,Lignite,Cyclone Furnace,coal,CLEIP,0.6,Lb / Ton,2747.87584654,Lb / Ton
+10100306,External Combustion Boilers,Electric Generation,Lignite,"Boiler, Spreader Stoker",coal,CLEIP,5,Lb / Ton,2747.87584654,Lb / Ton
+10100316,External Combustion Boilers,Electric Generation,Lignite,"Boiler, Atmospheric Fluidized Bed Combustion: Bubbling Bed",coal,CLEIP,0.15,Lb / Ton,2747.87584654,Lb / Ton
+10100318,External Combustion Boilers,Electric Generation,Lignite,"Boiler, Atmospheric Fluidized Bed Combustion: Circulating Bed",coal,CLEIP,0.15,Lb / Ton,2747.87584654,Lb / Ton
+10100401,External Combustion Boilers,Electric Generation,Residual Oil - Grade 6,"Boiler, Normal Firing",residual oil,RFEIP,5,Lb / 1000 Gallon,27121.1470552,Lb / 1000 Gallon
+10100404,External Combustion Boilers,Electric Generation,Residual Oil - Grade 6,"Boiler, Tangential-fired",residual oil,RFEIP,5,Lb / 1000 Gallon,27121.1470552,Lb / 1000 Gallon
+10100501,External Combustion Boilers,Electric Generation,Distillate Oil - Grades 1 and 2,Boiler,distillate oil / jet kerosene,DFEIP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10100504,External Combustion Boilers,Electric Generation,Distillate Oil - Grade 4,"Boiler, Normal Firing",distillate oil / jet kerosene,DFEIP,5,Lb / 1000 Gallon,23797.25029968,Lb / 1000 Gallon
+10100505,External Combustion Boilers,Electric Generation,Distillate Oil - Grade 4,"Boiler, Tangential-fired",distillate oil / jet kerosene,DFEIP,5,Lb / 1000 Gallon,23797.25029968,Lb / 1000 Gallon
+10100601,External Combustion Boilers,Electric Generation,Natural Gas,"Boiler, >= 100 Million BTU/hr",gas,NGEIP,84,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10100602,External Combustion Boilers,Electric Generation,Natural Gas,"Boiler < 100 Million BTU, except tangential",gas,NGEIP,84,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10100604,External Combustion Boilers,Electric Generation,Natural Gas,"Boiler, Tangential-fired",gas,NGEIP,24,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10100701,External Combustion Boilers,Electric Generation,Process Gas,"Boiler, >= 100 Million BTU/hr",gas,NGEIP,6.57,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+10100702,External Combustion Boilers,Electric Generation,Process Gas,Boiler < 100 Million Btu/hr,gas,NGEIP,6.57,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+10100703,External Combustion Boilers,Electric Generation,Petroleum Refinery Gas,Boiler,gas,NGEIP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+10100801,External Combustion Boilers,Electric Generation,Petroleum Coke,All Boiler Sizes,coal,CLEIP,0.6,Lb / Ton,6231.92281272,Lb / Ton
+10100901,External Combustion Boilers,Electric Generation,Wood/Bark Waste,Bark-fired Boiler,wood/waste,WWEIB,0.6,Lb / Million Btus,214.95045,Lb / Million Btus
+10100902,External Combustion Boilers,Electric Generation,Wood/Bark Waste,Wood/Bark-Fired Boiler,wood/waste,WWEIB,0.6,Lb / Million Btus,214.95045,Lb / Million Btus
+10100903,External Combustion Boilers,Electric Generation,Wood/Bark Waste,Wood-fired Boiler - Wet Wood (>=20% moisture),wood/waste,WWEIB,0.6,Lb / Million Btus,214.95045,Lb / Million Btus
+10100908,External Combustion Boilers,Electric Generation,Wood/Bark Waste,Wood-fired Boiler - Dry Wood (<20% moisture),wood/waste,WWEIB,0.6,Lb / Million Btus,214.95045,Lb / Million Btus
+10100911,External Combustion Boilers,Electric Generation,Wood/Bark Waste,Stoker boilers,wood/waste,WWEIB,13.6,Lb / Ton,2946.9706695,Lb / Ton
+10100912,External Combustion Boilers,Electric Generation,Wood/Bark Waste,Fluidized bed combustion boiler,wood/waste,WWEIB,1.4,Lb / Ton,2946.9706695,Lb / Ton
+10101001,External Combustion Boilers,Electric Generation,Liquified Petroleum Gas (LPG),Butane,lpg,NGEIP,3.6,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+10101002,External Combustion Boilers,Electric Generation,Liquified Petroleum Gas (LPG),Propane,lpg,NGEIP,7.01,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+10101302,External Combustion Boilers,Electric Generation,Liquid Waste,Waste Oil,other oil,RFEIP,5,Lb / 1000 Gallon,22473.2679633,Lb / 1000 Gallon
+10200101,External Combustion Boilers,Industrial,Anthracite Coal,Pulverized Coal,coal,CLICP,0.6,Lb / Ton,5674.26859296,Lb / Ton
+10200104,External Combustion Boilers,Industrial,Anthracite Coal,Traveling Grate (Overfeed) Stoker,coal,CLICP,0.6,Lb / Ton,5674.26859296,Lb / Ton
+10200117,External Combustion Boilers,Industrial,Anthracite Coal,Fluidized Bed Boiler Burning Anthracite-Culm Fuel,coal,CLICP,0.3,Lb / Ton,5674.26859296,Lb / Ton
+10200201,External Combustion Boilers,Industrial,Bituminous Coal,Pulverized Coal: Wet Bottom,coal,CLICP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10200202,External Combustion Boilers,Industrial,Bituminous Coal,Pulverized Coal: Dry Bottom,coal,CLICP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10200203,External Combustion Boilers,Industrial,Bituminous Coal,Cyclone Furnace,coal,CLICP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10200204,External Combustion Boilers,Industrial,Bituminous Coal,Spreader Stoker,coal,CLICP,5,Lb / Ton,4934.21293288,Lb / Ton
+10200205,External Combustion Boilers,Industrial,Bituminous Coal,Overfeed Stoker,coal,CLICP,6,Lb / Ton,4934.21293288,Lb / Ton
+10200206,External Combustion Boilers,Industrial,Bituminous Coal,Underfeed Stoker,coal,CLICP,11,Lb / Ton,4934.21293288,Lb / Ton
+10200212,External Combustion Boilers,Industrial,Bituminous Coal,Pulverized Coal: Dry Bottom (Tangential),coal,CLICP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10200217,External Combustion Boilers,Industrial,Bituminous Coal,Atmospheric Fluidized Bed Combustion: Bubbling Bed,coal,CLICP,18,Lb / Ton,4934.21293288,Lb / Ton
+10200218,External Combustion Boilers,Industrial,Bituminous Coal,Atmospheric Fluidized Bed Combustion: Circulating Bed,coal,CLICP,18,Lb / Ton,4934.21293288,Lb / Ton
+10200219,External Combustion Boilers,Industrial,Bituminous Coal,Cogeneration,coal,CLICP,0.6,Lb / Ton,4934.21293288,Lb / Ton
+10200221,External Combustion Boilers,Industrial,Subbituminous Coal,Pulverized Coal: Wet Bottom,coal,CLICP,0.5,Lb / Ton,3732.90006254,Lb / Ton
+10200222,External Combustion Boilers,Industrial,Subbituminous Coal,Pulverized Coal: Dry Bottom,coal,CLICP,0.5,Lb / Ton,3732.90006254,Lb / Ton
+10200224,External Combustion Boilers,Industrial,Subbituminous Coal,Spreader Stoker,coal,CLICP,5,Lb / Ton,3732.90006254,Lb / Ton
+10200225,External Combustion Boilers,Industrial,Subbituminous Coal,Traveling Grate (Overfeed) Stoker,coal,CLICP,6,Lb / Ton,3732.90006254,Lb / Ton
+10200226,External Combustion Boilers,Industrial,Subbituminous Coal,Pulverized Coal: Dry Bottom (Tangential),coal,CLICP,0.5,Lb / Ton,3732.90006254,Lb / Ton
+10200229,External Combustion Boilers,Industrial,Subbituminous Coal,Cogeneration,coal,CLICP,0.6,Lb / Ton,3732.90006254,Lb / Ton
+10200303,External Combustion Boilers,Industrial,Lignite,Cyclone Furnace,coal,CLICP,0.6,Lb / Ton,2747.87584654,Lb / Ton
+10200306,External Combustion Boilers,Industrial,Lignite,Spreader Stoker,coal,CLICP,5,Lb / Ton,2747.87584654,Lb / Ton
+10200401,External Combustion Boilers,Industrial,Residual Oil,Grade 6 oil,residual oil,RFICP,5,Lb / 1000 Gallon,25788.8951892,Lb / 1000 Gallon
+10200402,External Combustion Boilers,Industrial,Residual Oil,10-100 Million BTU/hr,residual oil,RFICP,5,Lb / 1000 Gallon,25788.8951892,Lb / 1000 Gallon
+10200403,External Combustion Boilers,Industrial,Residual Oil,< 10 Million BTU/hr,residual oil,RFICP,5,Lb / 1000 Gallon,25788.8951892,Lb / 1000 Gallon
+10200404,External Combustion Boilers,Industrial,Residual Oil,Grade 5 Oil,residual oil,RFICP,5,Lb / 1000 Gallon,25788.8951892,Lb / 1000 Gallon
+10200405,External Combustion Boilers,Industrial,Residual Oil,Cogeneration,residual oil,RFICP,5,Lb / 1000 Gallon,25788.8951892,Lb / 1000 Gallon
+10200501,External Combustion Boilers,Industrial,Distillate Oil - Grades 1 and 2,Boiler,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10200502,External Combustion Boilers,Industrial,Distillate Oil,10-100 Million BTU/hr,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10200502,External Combustion Boilers,Industrial,Distillate Oil,Boiler > 100 Million BTU/hr,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10200503,External Combustion Boilers,Industrial,Distillate Oil,< 10 Million BTU/hr,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10200504,External Combustion Boilers,Industrial,Distillate Oil,Grade 4 Oil,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10200505,External Combustion Boilers,Industrial,Distillate Oil,Cogeneration,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10200601,External Combustion Boilers,Industrial,Natural Gas,> 100 Million BTU/hr,gas,NGICP,84,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10200602,External Combustion Boilers,Industrial,Natural Gas,10-100 Million BTU/hr,gas,NGICP,84,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10200603,External Combustion Boilers,Industrial,Natural Gas,< 10 Million BTU/hr,gas,NGICP,84,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10200604,External Combustion Boilers,Industrial,Natural Gas,Cogeneration,gas,NGICP,24,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10200701,External Combustion Boilers,Industrial,Process Gas,Petroleum Refinery Gas,gas,NGICP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+10200704,External Combustion Boilers,Industrial,Process Gas,Blast Furnace Gas,gas,NGICP,13.7,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+10200707,External Combustion Boilers,Industrial,Process Gas,Coke Oven Gas,gas,NGICP,18.4,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+10200710,External Combustion Boilers,Industrial,Process Gas,Cogeneration,gas,NGICP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+10200711,External Combustion Boilers,Industrial,Process Gas,Landfill Gas,gas,NGICP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+10200799,External Combustion Boilers,Industrial,Process Gas,Other: Specify in Comments,gas,NGICP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+10200802,External Combustion Boilers,Industrial,Petroleum Coke,All Boiler Sizes,coke,PCICB,0.6,Lb / Ton,6231.92281272,Lb / Ton
+10200804,External Combustion Boilers,Industrial,Petroleum Coke,Cogeneration,coke,PCICB,0.6,Lb / Ton,6231.92281272,Lb / Ton
+10200901,External Combustion Boilers,Industrial,Wood/Bark Waste,Bark-fired Boiler,wood/waste,WWICB,0.6,Lb / Million Btus,214.95045,Lb / Million Btus
+10200902,External Combustion Boilers,Industrial,Wood/Bark Waste,Wood/Bark-fired Boiler,wood/waste,WWICB,0.6,Lb / Million Btus,214.95045,Lb / Million Btus
+10200903,External Combustion Boilers,Industrial,Wood/Bark Waste,Wood-fired Boiler - Wet Wood (>=20% moisture),wood/waste,WWICB,0.6,Lb / Million Btus,214.95045,Lb / Million Btus
+10200904,External Combustion Boilers,Industrial,Wood/Bark Waste,"Bark-fired Boiler (< 50,000 Lb Steam)",wood/waste,WWICB,13.6,Lb / Ton,2946.9706695,Lb / Ton
+10200905,External Combustion Boilers,Industrial,Wood/Bark Waste,"Wood/Bark-fired Boiler (< 50,000 Lb Steam)",wood/waste,WWICB,13.6,Lb / Ton,2946.9706695,Lb / Ton
+10200906,External Combustion Boilers,Industrial,Wood/Bark Waste,"Wood-fired Boiler (< 50,000 Lb Steam)",wood/waste,WWICB,13.6,Lb / Ton,2946.9706695,Lb / Ton
+10200907,External Combustion Boilers,Industrial,Wood/Bark Waste,Wood Cogeneration,wood/waste,WWICB,13.6,Lb / Ton,2946.9706695,Lb / Ton
+10200908,External Combustion Boilers,Industrial,Wood/Bark Waste,Wood-fired Boiler - Dry Wood (<20% moisture),wood/waste,WWICB,0.6,Lb / Million Btus,214.95045,Lb / Million Btus
+10200910,External Combustion Boilers,Industrial,Wood/Bark Waste,Fuel cell/Dutch oven boilers,wood/waste,WWICB,6.6,Lb / Ton,2946.9706695,Lb / Ton
+10200911,External Combustion Boilers,Industrial,Wood/Bark Waste,Stoker boilers,wood/waste,WWICB,13.6,Lb / Ton,2946.9706695,Lb / Ton
+10200912,External Combustion Boilers,Industrial,Wood/Bark Waste,Fluidized bed combustion boiler,wood/waste,WWICB,1.4,Lb / Ton,2946.9706695,Lb / Ton
+10201001,External Combustion Boilers,Industrial,Liquified Petroleum Gas (LPG),Butane,lpg,HLICB,3.6,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+10201002,External Combustion Boilers,Industrial,Liquified Petroleum Gas (LPG),Propane,lpg,HLICB,3.2,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+10201002,Stationary Source Fuel Combustion,Industrial,Liquified Petroleum Gas (LPG),Total: All Boiler Types,lpg,HLICB,3.2,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+10201003,External Combustion Boilers,Industrial,Liquified Petroleum Gas (LPG),Butane/Propane Mixture: Specify Percent Butane in Comments,lpg,HLICB,2.625,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+10201302,External Combustion Boilers,Industrial,Liquid Waste,Waste Oil,other oil,OPICB,5,Lb / 1000 Gallon,22473.2679633,Lb / 1000 Gallon
+10201302,Stationary Source Fuel Combustion,Industrial,Waste oil,Total,other oil,OPICB,5,Lb / 1000 Gallon,22473.2679633,Lb / 1000 Gallon
+10201401,External Combustion Boilers,Industrial,CO Boiler,Natural Gas,gas,NGICP,35,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10201402,External Combustion Boilers,Industrial,CO Boiler,Process Gas,gas,NGICP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+10201403,External Combustion Boilers,Industrial,CO Boiler,Distillate Oil,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10201404,External Combustion Boilers,Industrial,CO Boiler,Residual Oil,residual oil,RFICP,5,Lb / 1000 Gallon,25788.8951892,Lb / 1000 Gallon
+10300101,External Combustion Boilers,Commercial/Institutional,Anthracite Coal,Pulverized Coal,coal,CLICP,0.6,Lb / Ton,5674.26859296,Lb / Ton
+10300102,External Combustion Boilers,Commercial/Institutional,Anthracite Coal,Traveling Grate (Overfeed) Stoker,coal,CLICP,0.6,Lb / Ton,5674.26859296,Lb / Ton
+10300103,External Combustion Boilers,Commercial/Institutional,Anthracite Coal,Hand-fired,coal,CLICP,90,Lb / Ton,5674.26859296,Lb / Ton
+10300203,External Combustion Boilers,Commercial/Institutional,Bituminous Coal,Cyclone Furnace,coal,CLICP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10300205,External Combustion Boilers,Commercial/Institutional,Bituminous Coal,Pulverized Coal: Wet Bottom,coal,CLICP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10300206,External Combustion Boilers,Commercial/Institutional,Bituminous Coal,Pulverized Coal: Dry Bottom,coal,CLICP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10300207,External Combustion Boilers,Commercial/Institutional,Bituminous Coal,Overfeed Stoker,coal,CLICP,6,Lb / Ton,4934.21293288,Lb / Ton
+10300208,External Combustion Boilers,Commercial/Institutional,Bituminous Coal,Underfeed Stoker,coal,CLICP,11,Lb / Ton,4934.21293288,Lb / Ton
+10300209,External Combustion Boilers,Commercial/Institutional,Bituminous Coal,Spreader Stoker,coal,CLICP,5,Lb / Ton,4934.21293288,Lb / Ton
+10300214,External Combustion Boilers,Commercial/Institutional,Bituminous Coal,Hand-fired,coal,CLICP,275,Lb / Ton,4934.21293288,Lb / Ton
+10300216,External Combustion Boilers,Commercial/Institutional,Bituminous Coal,Pulverized Coal: Dry Bottom (Tangential),coal,CLICP,0.5,Lb / Ton,4934.21293288,Lb / Ton
+10300217,External Combustion Boilers,Commercial/Institutional,Bituminous Coal,Atmospheric Fluidized Bed Combustion: Bubbling Bed,coal,CLICP,18,Lb / Ton,4934.21293288,Lb / Ton
+10300218,External Combustion Boilers,Commercial/Institutional,Bituminous Coal,Atmospheric Fluidized Bed Combustion: Circulating Bed,coal,CLICP,18,Lb / Ton,4934.21293288,Lb / Ton
+10300222,External Combustion Boilers,Commercial/Institutional,Subbituminous Coal,Pulverized Coal: Dry Bottom,coal,CLICP,0.5,Lb / Ton,3732.90006254,Lb / Ton
+10300224,External Combustion Boilers,Commercial/Institutional,Subbituminous Coal,Spreader Stoker,coal,CLICP,5,Lb / Ton,3732.90006254,Lb / Ton
+10300225,External Combustion Boilers,Commercial/Institutional,Subbituminous Coal,Traveling Grate (Overfeed) Stoker,coal,CLICP,6,Lb / Ton,3732.90006254,Lb / Ton
+10300226,External Combustion Boilers,Commercial/Institutional,Subbituminous Coal,Pulverized Coal: Dry Bottom (Tangential),coal,CLICP,0.5,Lb / Ton,3732.90006254,Lb / Ton
+10300306,External Combustion Boilers,Commercial/Institutional,Lignite,"Pulverized Coal: Dry Bottom, Tangential Fired",coal,CLICP,0.6,Lb / Ton,2747.87584654,Lb / Ton
+10300401,External Combustion Boilers,Commercial/Institutional,Residual Oil - Grade 6,Boiler,residual oil,RFICP,5,Lb / 1000 Gallon,27121.1470552,Lb / 1000 Gallon
+10300402,External Combustion Boilers,Commercial/Institutional,Residual Oil,10-100 Million BTU/hr,residual oil,RFICP,5,Lb / 1000 Gallon,25788.8951892,Lb / 1000 Gallon
+10300403,External Combustion Boilers,Commercial/Institutional,Residual Oil,< 10 Million BTU/hr,residual oil,RFICP,5,Lb / 1000 Gallon,25788.8951892,Lb / 1000 Gallon
+10300404,External Combustion Boilers,Commercial/Institutional,Residual Oil,Grade 5 Oil,residual oil,RFICP,5,Lb / 1000 Gallon,25788.8951892,Lb / 1000 Gallon
+10300501,External Combustion Boilers,Commercial/Institutional,Distillate Oil - Grades 1 and 2,Boiler,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10300502,External Combustion Boilers,Commercial/Institutional,Distillate Oil,10-100 Million BTU/hr,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10300503,External Combustion Boilers,Commercial/Institutional,Distillate Oil,< 10 Million BTU/hr,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10300504,External Combustion Boilers,Commercial/Institutional,Distillate Oil,Grade 4 Oil,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10300601,External Combustion Boilers,Commercial/Institutional,Natural Gas,> 100 Million BTU/hr,gas,NGICP,84,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10300602,External Combustion Boilers,Commercial/Institutional,Natural Gas,10-100 Million BTU/hr,gas,NGICP,84,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10300603,External Combustion Boilers,Commercial/Institutional,Natural Gas,< 10 Million BTU/hr,gas,NGICP,84,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10300701,External Combustion Boilers,Commercial/Institutional,Process Gas,POTW Digester Gas-fired Boiler,gas,NGICP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+10300799,External Combustion Boilers,Commercial/Institutional,Process Gas,Other Not Classified,gas,NGICP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+10300811,External Combustion Boilers,Commercial/Institutional,Landfill Gas,Landfill Gas,gas,NGICP,35,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10300901,External Combustion Boilers,Commercial/Institutional,Wood/Bark Waste,Bark-fired Boiler,wood/waste,WWICB,0.6,Lb / Million Btus,214.95045,Lb / Million Btus
+10300902,External Combustion Boilers,Commercial/Institutional,Wood/Bark Waste,Wood/Bark-fired Boiler,wood/waste,WWICB,0.6,Lb / Million Btus,214.95045,Lb / Million Btus
+10300903,External Combustion Boilers,Commercial/Institutional,Wood/Bark Waste,Wood-fired Boiler - Wet Wood (>=20% moisture),wood/waste,WWICB,0.6,Lb / Million Btus,214.95045,Lb / Million Btus
+10300908,External Combustion Boilers,Commercial/Institutional,Wood/Bark Waste,Wood-fired Boiler - Dry Wood (<20% moisture),wood/waste,WWICB,0.6,Lb / Million Btus,214.95045,Lb / Million Btus
+10300910,External Combustion Boilers,Commercial/Institutional,Wood/Bark Waste,Fuel cell/Dutch oven boilers,wood/waste,WWICB,6.6,Lb / Ton,2946.9706695,Lb / Ton
+10300910,Stationary Source Fuel Combustion,Industrial,Wood,Total: All Boiler Types,wood/waste,WWICB,6.6,Lb / Ton,2946.9706695,Lb / Ton
+10300911,External Combustion Boilers,Commercial/Institutional,Wood/Bark Waste,Stoker boilers,wood/waste,WWICB,13.6,Lb / Ton,2946.9706695,Lb / Ton
+10300912,External Combustion Boilers,Commercial/Institutional,Wood/Bark Waste,Fluidized bed combustion boiler,wood/waste,WWICB,1.4,Lb / Ton,2946.9706695,Lb / Ton
+10301001,External Combustion Boilers,Commercial/Institutional,Liquified Petroleum Gas (LPG),Butane,lpg,HLICB,2.1,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+10301002,External Combustion Boilers,Commercial/Institutional,Liquified Petroleum Gas (LPG),Propane,lpg,HLICB,1.9,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+10301003,External Combustion Boilers,Commercial/Institutional,Liquified Petroleum Gas (LPG),Butane/Propane Mixture: Specify Percent Butane in Comments,lpg,HLICB,2.625,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+10500105,External Combustion,Space Heaters,Industrial,Distillate Oil,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10500106,External Combustion,Space Heaters,Industrial,Natural Gas,gas,NGICP,20,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10500110,External Combustion,Space Heaters,Industrial,Liquified Petroleum Gas (LPG),lpg,HLICB,3.4,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+10500113,External Combustion,Space Heaters,Industrial,Waste Oil: Air Atomized Burner,other oil,OPICB,2.1,Lb / 1000 Gallon,22473.2679633,Lb / 1000 Gallon
+10500114,External Combustion,Space Heaters,Industrial,Waste Oil: Vaporizing Burner,other oil,OPICB,1.7,Lb / 1000 Gallon,22473.2679633,Lb / 1000 Gallon
+10500205,External Combustion,Space Heaters,Commercial/Institutional,Distillate Oil,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+10500206,External Combustion,Space Heaters,Commercial/Institutional,Natural Gas,gas,NGICP,20,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+10500209,External Combustion,Space Heaters,Commercial/Institutional,Wood,wood/waste,WWICB,13.6,Lb / Ton,2946.9706695,Lb / Ton
+10500210,External Combustion,Space Heaters,Commercial/Institutional,Liquified Petroleum Gas (LPG),lpg,HLICB,2,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+10500213,External Combustion,Space Heaters,Commercial/Institutional,Waste Oil: Air Atomized Burner,other oil,OPICB,2.1,Lb / 1000 Gallon,22473.2679633,Lb / 1000 Gallon
+10500214,External Combustion,Space Heaters,Commercial/Institutional,Waste Oil: Vaporizing Burner,other oil,OPICB,1.7,Lb / 1000 Gallon,22473.2679633,Lb / 1000 Gallon
+20100101,Internal Combustion Engines,Electric Generation,Distillate Oil (Diesel),Turbine,distillate oil / jet kerosene,DFEIP,0.0033,Lb / Million Btus,162.03957,Lb / Million Btus
+20100102,Internal Combustion Engines,Electric Generation,Distillate Oil (Diesel),Reciprocating,distillate oil / jet kerosene,DFEIP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20100105,Internal Combustion Engines,Electric Generation,Distillate Oil (Diesel),Reciprocating: Crankcase Blowby,distillate oil / jet kerosene,DFEIP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20100106,Internal Combustion Engines,Electric Generation,Distillate Oil (Diesel),Reciprocating: Evaporative Losses (Fuel Storage and Delivery System),distillate oil / jet kerosene,DFEIP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20100107,Internal Combustion Engines,Electric Generation,Distillate Oil (Diesel),Reciprocating: Exhaust,distillate oil / jet kerosene,DFEIP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20100109,Internal Combustion Engines,Electric Generation,Distillate Oil (Diesel),Turbine: Exhaust,distillate oil / jet kerosene,DFEIP,6.72,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20100201,Internal Combustion Engines,Electric Generation,Natural Gas,Turbine,gas,NGEIP,0.082,Lb / Million Btus,117.065322,Lb / Million Btus
+20100202,Internal Combustion Engines,Electric Generation,Natural Gas,Reciprocating,gas,NGEIP,399,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20100206,Internal Combustion Engines,Electric Generation,Natural Gas,Reciprocating: Evaporative Losses (Fuel Delivery System),gas,NGEIP,400,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20100207,Internal Combustion Engines,Electric Generation,Natural Gas,Reciprocating: Exhaust,gas,NGEIP,400,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20100209,Internal Combustion Engines,Electric Generation,Natural Gas,Turbine: Exhaust,gas,NGEIP,150,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20100702,Internal Combustion Engines,Electric Generation,Process Gas,Reciprocating,gas,NGEIP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+20100707,Internal Combustion Engines,Electric Generation,Process Gas,Reciprocating: Exhaust,gas,NGEIP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+20100801,Internal Combustion Engines,Electric Generation,Landfill Gas,Turbine,gas,NGEIP,35,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20100802,Internal Combustion Engines,Electric Generation,Landfill Gas,Reciprocating,gas,NGEIP,35,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20100807,Internal Combustion Engines,Electric Generation,Landfill Gas,Reciprocating: Exhaust,gas,NGEIP,35,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20100901,Internal Combustion Engines,Electric Generation,Kerosene/Naphtha (Jet Fuel),Turbine,distillate oil / jet kerosene,DFEIP,0.0033,Lb / Million Btus,154.764324,Lb / Million Btus
+20100902,Internal Combustion Engines,Electric Generation,Kerosene/Naphtha (Jet Fuel),Reciprocating: Exhaust,distillate oil / jet kerosene,DFEIP,0.95,Lb / Million Btus,154.764324,Lb / Million Btus
+20100902,Internal Combustion Engines,Electric Generation,Kerosene/Naphtha (Jet Fuel),Reciprocating,distillate oil / jet kerosene,DFEIP,0.95,Lb / Million Btus,154.764324,Lb / Million Btus
+20100909,Internal Combustion Engines,Electric Generation,Kerosene/Naphtha (Jet Fuel),Turbine: Exhaust,distillate oil / jet kerosene,DFEIP,113.5,Lb / 1000 Gallon,18786.60539602,Lb / 1000 Gallon
+20200101,Internal Combustion Engines,Industrial,Distillate Oil (Diesel),Turbine,distillate oil,DFICP,0.0033,Lb / Million Btus,162.03957,Lb / Million Btus
+20200102,Internal Combustion Engines,Industrial,Distillate Oil (Diesel),Reciprocating,distillate oil,DFICP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20200103,Internal Combustion Engines,Industrial,Distillate Oil (Diesel),Turbine: Cogeneration,distillate oil,DFICP,0.0033,Lb / Million Btus,162.03957,Lb / Million Btus
+20200104,Internal Combustion Engines,Industrial,Distillate Oil (Diesel),Reciprocating: Cogeneration,distillate oil,DFICP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20200105,Internal Combustion Engines,Industrial,Distillate Oil (Diesel),Reciprocating: Crankcase Blowby,distillate oil,DFICP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20200107,Internal Combustion Engines,Industrial,Distillate Oil (Diesel),Reciprocating: Exhaust,distillate oil,DFICP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20200109,Internal Combustion Engines,Industrial,Distillate Oil (Diesel),Turbine: Exhaust,distillate oil,DFICP,6.72,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20200201,Internal Combustion Engines,Industrial,Natural Gas,Turbine,gas,NGICP,0.082,Lb / Million Btus,117.065322,Lb / Million Btus
+20200202,Internal Combustion Engines,Industrial,Natural Gas,Reciprocating,gas,NGICP,399,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20200203,Internal Combustion Engines,Industrial,Natural Gas,Turbine: Cogeneration,gas,NGICP,0.082,Lb / Million Btus,117.065322,Lb / Million Btus
+20200204,Internal Combustion Engines,Industrial,Natural Gas,Reciprocating: Cogeneration,gas,NGICP,399,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20200207,Internal Combustion Engines,Industrial,Natural Gas,Reciprocating: Exhaust,gas,NGICP,400,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20200209,Internal Combustion Engines,Industrial,Natural Gas,Turbine: Exhaust,gas,NGICP,150,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20200252,Internal Combustion Engines,Industrial,Natural Gas,2-cycle Lean Burn,gas,NGICP,0.386,Lb / Million Btus,117.065322,Lb / Million Btus
+20200253,Internal Combustion Engines,Industrial,Natural Gas,4-cycle Rich Burn,gas,NGICP,3.72,Lb / Million Btus,117.065322,Lb / Million Btus
+20200254,Internal Combustion Engines,Industrial,Natural Gas,4-cycle Lean Burn,gas,NGICP,0.317,Lb / Million Btus,117.065322,Lb / Million Btus
+20200255,Internal Combustion Engines,Industrial,Natural Gas,2-cycle Clean Burn,gas,NGICP,1000,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20200256,Internal Combustion Engines,Industrial,Natural Gas,4-cycle Clean Burn,gas,NGICP,1000,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20200401,Internal Combustion Engines,Industrial,Diesel,Large Bore Engine,distillate oil,DFICP,116,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20200407,Internal Combustion Engines,Industrial,All Fuels,Large Bore Engine: Exhaust,other oil,OPICB,1000,Lb / 1000 Gallon,22167.5092155,Lb / 1000 Gallon
+20200501,Internal Combustion Engines,Industrial,Residual/Crude Oil,Reciprocating,crude oil,COICP,130,Lb / 1000 Gallon,23114.47507644,Lb / 1000 Gallon
+20200701,Internal Combustion Engines,Industrial,Process Gas,Turbine,gas,NGICP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+20200702,Internal Combustion Engines,Industrial,Process Gas,Reciprocating Engine,gas,NGICP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+20200712,Internal Combustion Engines,Industrial,Process Gas,Reciprocating: Exhaust,gas,NGICP,35,Lb / Million Cubic Feet,132163.5738852,Lb / Million Cubic Feet
+20200901,Internal Combustion Engines,Industrial,Kerosene/Naphtha (Jet Fuel),Turbine: Exhaust,jet fuel / kerosene,KSICP,0.0033,Lb / Million Btus,154.764324,Lb / Million Btus
+20200901,Internal Combustion Engines,Industrial,Kerosene/Naphtha (Jet Fuel),Turbine,jet fuel / kerosene,KSICP,0.0033,Lb / Million Btus,154.764324,Lb / Million Btus
+20200902,Internal Combustion Engines,Industrial,Kerosene/Naphtha (Jet Fuel),Reciprocating,jet fuel / kerosene,KSICP,0.95,Lb / Million Btus,154.764324,Lb / Million Btus
+20201001,Internal Combustion Engines,Industrial,Liquified Petroleum Gas (LPG),Propane: Reciprocating,lpg,HLICB,2.55,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+20201012,Internal Combustion Engines,Industrial,Liquified Petroleum Gas (LPG),Reciprocating Engine,lpg,HLICB,2.625,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+20201702,Internal Combustion Engines,Industrial,Gasoline,Reciprocating Engine,gasoline,MGICP,7900,Lb / 1000 Gallon,20100.79040112,Lb / 1000 Gallon
+20300101,Internal Combustion Engines,Commercial/Institutional,Distillate Oil (Diesel),Reciprocating,distillate oil,DFICP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20300101,Stationary Source Fuel Combustion,Industrial,Distillate Oil,All Boiler Types,distillate oil,DFICP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20300101,Stationary Source Fuel Combustion,Industrial,Distillate Oil,All IC Engine Types,distillate oil,DFICP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20300102,Internal Combustion Engines,Commercial/Institutional,Distillate Oil (Diesel),Turbine,distillate oil,DFICP,0.0033,Lb / Million Btus,162.03957,Lb / Million Btus
+20300105,Internal Combustion Engines,Commercial/Institutional,Distillate Oil (Diesel),Reciprocating: Crankcase Blowby,distillate oil,DFICP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20300106,Internal Combustion Engines,Commercial/Institutional,Distillate Oil (Diesel),Reciprocating: Evaporative Losses (Fuel Storage and Delivery System),distillate oil,DFICP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20300107,Internal Combustion Engines,Commercial/Institutional,Distillate Oil (Diesel),Reciprocating: Exhaust,distillate oil,DFICP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20300109,Internal Combustion Engines,Commercial/Institutional,Distillate Oil (Diesel),Turbine: Exhaust,distillate oil,DFICP,6.72,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20300201,Internal Combustion Engines,Commercial/Institutional,Natural Gas,Reciprocating,gas,NGICP,399,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20300202,Internal Combustion Engines,Commercial/Institutional,Natural Gas,Turbine,gas,NGICP,0.082,Lb / Million Btus,117.065322,Lb / Million Btus
+20300202,Internal Combustion Engines,Commercial/Institutional,Natural Gas,Turbine: Exhaust,gas,NGICP,0.082,Lb / Million Btus,117.065322,Lb / Million Btus
+20300203,Internal Combustion Engines,Commercial/Institutional,Natural Gas,Turbine: Cogeneration,gas,NGICP,0.082,Lb / Million Btus,117.065322,Lb / Million Btus
+20300204,Internal Combustion Engines,Commercial/Institutional,Natural Gas,Reciprocating: Cogeneration,gas,NGICP,400,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20300207,Internal Combustion Engines,Commercial/Institutional,Natural Gas,Reciprocating: Exhaust,gas,NGICP,400,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20300301,Internal Combustion Engines,Commercial/Institutional,Gasoline,Reciprocating,gasoline,MGICP,7900,Lb / 1000 Gallon,20100.79040112,Lb / 1000 Gallon
+20300307,Internal Combustion Engines,Commercial/Institutional,Gasoline,Reciprocating: Exhaust,gasoline,MGICP,7900,Lb / 1000 Gallon,20100.79040112,Lb / 1000 Gallon
+20300701,Internal Combustion Engines,Commercial/Institutional,Digester Gas,Turbine,gas,NGICP,0.017,Lb / Million Btus,117.065322,Lb / Million Btus
+20300702,Internal Combustion Engines,Commercial/Institutional,Digester Gas,Reciprocating: POTW Digester Gas,gas,NGICP,35,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20300707,Internal Combustion Engines,Commercial/Institutional,Digester Gas,Reciprocating: Exhaust,gas,NGICP,35,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20300801,Internal Combustion Engines,Commercial/Institutional,Landfill Gas,Turbine,gas,NGICP,0.44,Lb / Million Btus,117.065322,Lb / Million Btus
+20300802,Internal Combustion Engines,Commercial/Institutional,Landfill Gas,Reciprocating,gas,NGICP,35,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20300809,Internal Combustion Engines,Commercial/Institutional,Landfill Gas,Turbine: Exhaust,gas,NGICP,35,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20300901,Internal Combustion Engines,Commercial/Institutional,Kerosene/Naphtha (Jet Fuel),Turbine: JP-4,jet fuel / kerosene,KSICP,113.5,Lb / 1000 Gallon,18786.60539602,Lb / 1000 Gallon
+20301001,Internal Combustion Engines,Commercial/Institutional,Liquified Petroleum Gas (LPG),Propane: Reciprocating,lpg,HLICB,2.55,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+20301007,Internal Combustion Engines,Commercial/Institutional,Liquified Petroleum Gas (LPG),Reciprocating: Exhaust,lpg,HLICB,2.625,Lb / 1000 Gallon,12848.52536,Lb / 1000 Gallon
+20400101,Internal Combustion Engines,Engine Testing,Aircraft Engine Testing,Turbojet,jet fuel / kerosene,KSICP,113.5,Lb / 1000 Gallon,18786.60539602,Lb / 1000 Gallon
+20400102,Internal Combustion Engines,Engine Testing,Aircraft Engine Testing,Turboshaft,jet fuel / kerosene,KSICP,113.5,Lb / 1000 Gallon,18786.60539602,Lb / 1000 Gallon
+20400110,Internal Combustion Engines,Engine Testing,Aircraft Engine Testing,Jet A Fuel,jet fuel / kerosene,KSICP,113.5,Lb / 1000 Gallon,18786.60539602,Lb / 1000 Gallon
+20400111,Internal Combustion Engines,Engine Testing,Aircraft Engine Testing,JP-5 Fuel,jet fuel / kerosene,KSICP,113.5,Lb / 1000 Gallon,18786.60539602,Lb / 1000 Gallon
+20400112,Internal Combustion Engines,Engine Testing,Aircraft Engine Testing,JP-4 Fuel,jet fuel / kerosene,KSICP,113.5,Lb / 1000 Gallon,18786.60539602,Lb / 1000 Gallon
+20400301,Internal Combustion Engines,Engine Testing,Turbine,Natural Gas,gas,NGICP,120,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+20400302,Internal Combustion Engines,Engine Testing,Turbine,Diesel/Kerosene,jet fuel / kerosene,KSICP,6.72,Lb / 1000 Gallon,21734.356501,Lb / 1000 Gallon
+20400303,Internal Combustion Engines,Engine Testing,Turbine,Distillate Oil,distillate oil,DFICP,6.72,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20400305,Internal Combustion Engines,Engine Testing,Turbine,Kerosene/Naphtha,jet fuel / kerosene,KSICP,113.5,Lb / 1000 Gallon,18786.60539602,Lb / 1000 Gallon
+20400401,Internal Combustion Engines,Engine Testing,Reciprocating Engine,Gasoline,gasoline,MGICP,3940,Lb / 1000 Gallon,20100.79040112,Lb / 1000 Gallon
+20400402,Internal Combustion Engines,Engine Testing,Reciprocating Engine,Diesel/Kerosene,jet fuel / kerosene,KSICP,130,Lb / 1000 Gallon,21734.356501,Lb / 1000 Gallon
+20400403,Internal Combustion Engines,Engine Testing,Reciprocating Engine,Distillate Oil,distillate oil,DFICP,130,Lb / 1000 Gallon,22209.1434642,Lb / 1000 Gallon
+20400406,Internal Combustion Engines,Engine Testing,Reciprocating Engine,Kerosene/Naphtha (Jet Fuel),jet fuel / kerosene,KSICP,130,Lb / 1000 Gallon,18601.12410156,Lb / 1000 Gallon
+2102001000,Stationary Source Fuel Combustion,Industrial,Anthracite Coal,Total: All Boiler Types,coal,CLICP,0.6,Lb / Ton,5674.26859296,Lb / Ton
+2102002000,Stationary Source Fuel Combustion,Industrial,Bituminous/Subbituminous Coal,Total: All Boiler Types,coal,CLICP,5,Lb / Ton,4934.21293288,Lb / Ton
+2102004000,Stationary Source Fuel Combustion,Industrial,Distillate Oil,Total: Boilers and IC Engines,distillate oil,DFICP,5,Lb / 1000 Gallon,22365.7045535,Lb / 1000 Gallon
+2102005000,Stationary Source Fuel Combustion,Industrial,Residual Oil,Total: All Boiler Types,residual oil,RFICP,5,Lb / 1000 Gallon,25788.8951892,Lb / 1000 Gallon
+2102006000,Stationary Source Fuel Combustion,Industrial,Natural Gas,Total: Boilers and IC Engines,gas,NGICP,84,Lb / Million Cubic Feet,120811.412304,Lb / Million Cubic Feet
+2102011000,Stationary Source Fuel Combustion,Industrial,Kerosene,Total: All Boiler Types,jet fuel / kerosene,KSICP,4.821429,Lb / 1000 Gallon,21295.65034872,Lb / 1000 Gallon
